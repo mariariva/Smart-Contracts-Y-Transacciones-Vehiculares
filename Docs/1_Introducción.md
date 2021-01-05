@@ -10,11 +10,15 @@ Por un lado, el término smart contract (o contrato inteligente) hace referencia
 
 
 Los dos trámites vehiculares en los que se centra este trabajo son: a) la inscripción de un vehículo nuevo o “0km” y b) la transferencia de la propiedad de un vehículo usado. Estos dos trámites presentan ciertas características en el sistema argentino, como lo son el carácter presencial del trámite, la intermediación requerida para la validación de documentación y la dilatación en el tiempo entre las transacciones, entre otras. Particularmente, este último caso es uno de los que genera más problemas, ya que muchas veces se concreta la venta de un vehículo y este no es transferido en tiempo y forma por el nuevo comprador, generado responsabilidad en el antiguo propietario lo que podría verse solucionado si existiera un proceso de verificación constante que se centre en las transacciones asociadas, asegurando una correcta trazabilidad de las operaciones o bien una instancia previa con documentación que acredite la situación del vehículo (por ejemplo, un certificado de preventa). 
+
+
 Por otro lado, la tecnología Blockchain definida como “…una base de datos distribuida entre diferentes participantes, protegida criptograficamiente y organizada en bloques de transacciones relacionados entre sí matemáticamente…”1 funciona como un libro donde se registran operaciones de compra-venta como también todas sus instancias intermedias y cualquier otro tipo de transacción, con ciertas ventajas como la reducción de costos, la falta de intermediación, y la seguridad en el manejo de la información. En este registro único, se almacenan transacciones y la información necesaria para poder realizarlas en bloques (nodos) que se van agregando, sucesivamente, al registro en forma de cadena secuencial, cada uno de ellos relacionado necesariamente con el bloque anterior y también con el siguiente.
 
 
 Esta relación entre bloques se realiza a través de un hash, que contiene un código único que permite realizar la vinculación entre los bloques de la red. La esencia del hash es la que otorga la tan valorada seguridad en esta tecnología, ya que al procesarse en un bloque y almacenarlo en el siguiente, no solo asegura la inalterabilidad de la información, sino que también brinda la posibilidad de percatarse frente a cualquier intento de modificarla. 
+
+
 La utilización, en conjunto, del smart contract y la tecnología Blockchain para los trámites vehiculares implica la incorporación de un sistema actualizado, que por sus importantes características, no solo ayudaría a simplificar las relaciones comerciales y contractuales sino que también beneficiaría a la Administración Pública en su rol de registrador de información. 
 
 
-[Smart contract >>]](1_Introducción.md).
+[Smart contract >]](1_Introducción.md).
