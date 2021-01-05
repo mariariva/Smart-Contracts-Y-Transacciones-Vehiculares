@@ -29,4 +29,4 @@ Por otro lado, respecto a los elementos que integran un smart contract que es es
     • Modificadores del contrato que sirven para añadir o cambiar el comportamiento del contrato.
     • Estructuras que son datos que sirven para agrupar varias variables.
 
-1. Introducción 3. Blockchain
+[Introducción <<<](1_Introducción.md) *** [>>> Blockchain](3_Blockchain.md)

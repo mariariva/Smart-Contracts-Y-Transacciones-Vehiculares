@@ -49,5 +49,4 @@ En conclusión, para que un hash sea exitoso, debe ser relativamente corto y ser
     • Resistente a colisiones: que resulte muy difícil de encontrar dos valores de entrada que obtengan el mismo valor hash o que resulte imposible porque las variaciones de los valores de entrada son inferiores a la cantidad de valores hasha disponibles.
     • OWF (One Way Hash Function): que la función hash sea unidireccional o de sentido único de manera de no encontrar a través de él los valores que tienen los datos de entrada que lo originaron.
 
-
-2. Smart Contract 4. Las transacciones vehiculares
+[Smart contract <<<](2_Smart_Contract.md) *** [>>> Las transacciones vehiculares](4_Las_transacciones_vehiculares.md)

@@ -33,4 +33,4 @@ Tuesta, D. Alonso, J. Cámara, N. Urbiola, P. Vegas, I. y Pérez, M.L. (2015). S
 (25 de noviembre de 2020). Estructura y elementos de un contrato. Lugar de Publicación: Aprende Blockchain. Recuperado de: https://aprendeblockchain.wordpress.com/desarrollo-en-ethereum/estructura-y-elementos-de-un-contrato/
 (29 de noviembre de 2020).¿Qués el CETA?. Información sobre qué es el CETA, quienes deben gestionarlo y quienes están exceptuados. Lugar de Publicación: Afip. Recuperado de: https://www.afip.gob.ar/ceta/conceptos-basicos/que-es.asp
 
-Anexos
+[<<< Anexos](6_Anexos.md)

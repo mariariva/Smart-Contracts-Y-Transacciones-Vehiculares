@@ -48,4 +48,6 @@ El smart contract funciona dentro de la red Blockchain que será de tipo híbrid
     • Nodo Policía. Es el nodo que genera el hash de la información correspondiente a la verificación técnica vehicular y el grabado de autopartes.
 Una vez verificado el cumplimiento efectivo de todas las cláusulas, se culmina el proceso con la consolidación de la información registral que tiene dos acciones que ocurren en simultáneo: por un lado, la transferencia del dinero recibido en la CBU del Registro al CBU del vendedor, y por el otro la efectiva transferencia e inscripción registrada en el Registro Automotor, y en el caso de los vehículos nuevos la correcta emisión de la chapa patente. 
 
+
+[Blockchain <<<](3_Blockchain.md) *** [>>> Conclusión](5_Conclusión.md)
 3. Blockchain  5. Conclusión 
